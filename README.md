@@ -14,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `SCREENSHOT`
+
+![Screenshot (74)](https://github.com/onkar964/ITion-Solutions-Movie-search-app/assets/62983112/1e1570d3-8255-4173-bdab-ad482d744404)
+![Screenshot (76)](https://github.com/onkar964/ITion-Solutions-Movie-search-app/assets/62983112/c0816b23-741b-4f0a-892d-57972f1a2d89)
+![Screenshot (75)](https://github.com/onkar964/ITion-Solutions-Movie-search-app/assets/62983112/bead60bc-e59b-4191-a8c5-6433b5a401ac)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
