@@ -1,0 +1,32 @@
+.moviess{
+    background-color: #F0d2da;
+    margin: auto;
+}
+.moviess h1{
+    font-family: cursive;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.r{
+    padding: 20px;
+}
+.r input{
+    margin-right: 5px;
+    width: 400px;
+    height: 20px;
+    descent-override: none;
+}
+.movieDisplay{
+    margin: auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    align-items: center;
+    text-align: center;
+}
+.movieDisplay img{
+    height: 300px;
+    width: 200px;
+}

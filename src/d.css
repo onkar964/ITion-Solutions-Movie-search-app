@@ -1,0 +1,23 @@
+.main{
+    background-color: #81384b;
+    color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+}
+.MovieDisplay{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 20px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+.MovieDisplay image{
+    height: 300px;
+    width: 200px;
+}
+h1{
+    font-family: cursive;
+}
